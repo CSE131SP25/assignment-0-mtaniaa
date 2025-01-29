@@ -999,6 +999,9 @@ public class RobotInstructions  {
 		robot.forward(40);
 		robot.turnLeft(15);
 		robot.forward(35);
+		
+		
+		// try to make a stem w/ leaf?
 	}
 
 }
